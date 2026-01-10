@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou a Gabriela!
 - 🌱 Eu sou formada em Gestão Empresarial pela Fatec e em Administração de Empresas pelo Centro Universitário Senac.
-- ⚡ Atualmente trabalho como Analista de Dados I na Globo.  Também trabalhei em uma empresa da área de Tecnologia e em uma empresa da área de análise de Crédito.
+- ⚡ Atualmente trabalho como Analista de Dados Jr. Também trabalhei em uma empresa da área de Tecnologia e em uma empresa da área de análise de Crédito.
 - 🌱 Tenho conhecimento em BigQuery, Python, Looker, Excel e Power BI. Atualmente, faço o curso de Engenharia de Dados.
   
 <!---
